@@ -2,7 +2,7 @@
 
 # Luu Huy Hoang
 
-🎓 2nd-year CS student @ HCMUS (VNU-HCM) — GPA: 3.4/4.0  
+🎓 2nd-year IT student @ HCMUS (VNU-HCM) — GPA: 3.4/4.0  
 💻 Full-stack enthusiast (React.js • Node.js) | C/C++ • Python • JavaScript  
 🚀 Open to **Fullstack/Software Engineer Intern** roles
 
