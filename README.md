@@ -43,14 +43,14 @@
 
 ## What I’m focusing on
 - Strengthening **DSA** and system design basics  
-- Exploring **Next.js** & testing (Automation/QA)  
 - Writing clearer docs and cleaner commits
 
 ---
 
 ## Contact
-- 📧 huyhoangluu105@gmail.com
-- 📍 Ho Chi Minh City, Viet Nam
+- 📧 huyhoangluu105@gmail.com  
+- 📱 0906413908  
+- 📍 Ho Chi Minh City, Viet Nam  
 - 🔗 GitHub: https://github.com/Hoang105205
 
 > “Build, measure, learn — then build better.” ✨
