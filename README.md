@@ -1,5 +1,10 @@
 # 💫 About Me:
- 2nd-year IT student @ HCMUS (VNU-HCM) — GPA: 3.4/4.0<br>💻 Full-stack enthusiast (React.js • Node.js) | C/C++ • Python • JavaScript<br>🚀 Open to Fullstack/Software Engineer Intern roles<br>I enjoy building clean, practical products and learning by doing.<br>Comfortable across the stack: RESTful APIs, frontend state/data flow, and basic DevOps/git flows.<br>Strong self-learner with teamwork & communication experience from multi-member projects.
+- 2nd-year IT student @ HCMUS (VNU-HCM) — GPA: 3.4/4.0
+- Full-stack enthusiast (React.js • Node.js) | C/C++ • Python • JavaScript
+- Open to Fullstack/Software Engineer Intern roles.
+- I enjoy building clean, practical products and learning by doing.\
+- Comfortable across the stack: RESTful APIs, frontend state/data flow, and basic DevOps/git flows.
+- Strong self-learner with teamwork & communication experience from multi-member projects.
 
 
 ## 🌐 Socials:
@@ -12,7 +17,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Hoang105205&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoang105205&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hoang105205&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Hoang105205&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
